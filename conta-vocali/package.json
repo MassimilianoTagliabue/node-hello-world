@@ -1,10 +1,10 @@
 {
-  "name": "pari-dispari",
+  "name": "conta-vocali",
   "version": "1.0.0",
   "main": "app.js",
   "scripts": {
     "start": "node app.js",
-    "dev": "node --watch app.js"
+    "dev" : "node --watch app.js"
   },
   "author": "",
   "license": "ISC",
